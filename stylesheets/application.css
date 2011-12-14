@@ -36,10 +36,10 @@ a {
 	color: #ec008c;
 }
 .content img {
-    height: 109px;
-    position: absolute;
+/*    height: 109px;
+    position: absolute; */
     top: -37px;
-    width: 407px;
+/*    width: 407px; */
 }
 .content li {
     display: block;
